@@ -54,7 +54,9 @@ table {
   font-size: 25px;
 }
 
-body {
+body { 
+  font-family: 'Staatliches', cursive;
+  font-size: 2em;
   display: flex;
   justify-content: center;
   align-items: center;
