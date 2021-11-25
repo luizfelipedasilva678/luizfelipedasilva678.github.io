@@ -55,11 +55,12 @@ table {
 }
 
 body { 
-  font-family: 'Staatliches', cursive;
-  font-size: 2em;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  font-family: 'Staatliches', cursive;
+  font-size: 2em;
 
   width: 100vw;
   height: 100vh;
